@@ -1,0 +1,20 @@
+.btn-rounded {
+  border-radius: 80px;
+  text-align:center;
+}
+
+.btn-primary {
+  background-color: "#337BAC";
+}
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.ofx-currency-calculator {
+    padding: 2.4rem;
+    height: 80vh;
+}
+
+
